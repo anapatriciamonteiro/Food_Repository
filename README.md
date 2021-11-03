@@ -35,8 +35,4 @@ O que funciona:
 - função editar endereço
 - responsivo
 
-O que não funciona:
-- estilização do feed
-- search
-- quantidade desejada dos itens no restaurante
-- carrinho e suas funções (adicionar, remover, somar, subtotal)
+
